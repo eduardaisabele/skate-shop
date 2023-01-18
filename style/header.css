@@ -1,0 +1,46 @@
+.cabecalho {
+    background-color: rgba(0, 0, 0, 0.937);
+}
+
+.cabecalho .cabecalho-um {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.cabecalho .cabecalho-um .cabecalho-img-logo {
+    height: 90px;
+    border-radius: 50px;
+}
+
+.cabecalho .cabecalho-um .cabecalho-navegacao-cliente {
+    display: flex;
+    gap: 30px;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.cabecalho-navegacao-cliente-link,
+.cabecalho-navegacao-produtos-link {
+    color: #ECECEC;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+}
+
+.cabecalho-navegacao-cliente-link img {
+    margin: 0 5px -2px 0;
+    width: 20px;
+}
+
+.cabecalho-navegacao-produtos-link img {
+    margin: -5px 0 -5px 6px;
+    width: 17px;
+}
+
+.cabecalho .cabecalho-dois .cabecalho-navegacao-produtos {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+}

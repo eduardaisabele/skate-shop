@@ -1,0 +1,51 @@
+.principal {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px 0;
+}
+
+.principal h1 {
+    font-weight: 600;
+    text-align: center;
+}
+
+.principal .conteudo-destaque {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.principal .conteudo-destaque .box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0;
+    margin: 10px 0;
+    border: 1px solid rgb(229, 226, 226);
+    border-radius: 8px;
+    transition: 1s;
+}
+
+.principal .conteudo-destaque .btn-compra {
+    font-family: 'Poppins', sans-serif;
+    width: 40%;
+    height: 35px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: rgb(235, 233, 233);
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    transition: 500ms linear; 
+}
+
+.principal .conteudo-destaque .btn-compra:hover {
+    background-color: rgb(208, 208, 208);
+    color: #000;
+}
+
+.principal .conteudo-destaque .box:hover {
+    border: 1px solid rgba(0, 0, 0, 0.122);
+    cursor: pointer;
+    box-shadow: 0px 0px 16px 3px rgba(0, 0, 0, 0.122);
+}
+
