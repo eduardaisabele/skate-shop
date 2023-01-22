@@ -1,4 +1,17 @@
-![SKATE SHOP](https://user-images.githubusercontent.com/92763302/213933755-62204b7d-2fcb-43a2-a5ff-f53ddbe0ae43.png)
 <h1>🛹 Skate Shop</h1>
-<p>🚀 projeto pensado com o intuido de desenvolver minhas habilidades com HTML5 e CSS3, usando o modelo de layout flex box</p>
 
+![SKATESHOP](https://user-images.githubusercontent.com/92763302/213933755-62204b7d-2fcb-43a2-a5ff-f53ddbe0ae43.png)
+<p>🚀 Projeto pensado com o intuido de desenvolver minhas habilidades com HTML5 e CSS3, usando o modelo de layout flex box</p>
+<h4 align="center"> 
+	🚧  Skate Shop 🚀 Em construção...  🚧
+</h4>
+
+### Features
+
+- [ ] Area de cadastro de usuário
+- [ ] Area de produtos
+- [ ] Responsividade
+- [ ] Cadastro de produtos
+
+![screenshot-tela-inicio](https://user-images.githubusercontent.com/92763302/213945526-991ccf7b-ee55-4012-a765-be107e02a80a.png)
+<a href="https://eduardaisabele.github.io/skate-shop/">Por aqui você consegue dar uma olhada no site ;)</a>
