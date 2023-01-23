@@ -14,6 +14,7 @@
 - [ ] Area de produtos
 - [ ] Responsividade
 - [ ] Cadastro de produtos
+- [ ] Slide de fotos automatico
 
 ### Tecnologias usadas:
 * HTML5
