@@ -6,6 +6,8 @@
 	🚧  Skate Shop 🚀 Em construção...  🚧
 </h4>
 
+![GitHub language count](https://img.shields.io/static/v1?label=LANGUAGES&message=3&color=<yellow>)
+![License](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=<yellow>)
 ### Features
 
 - [ ] Area de cadastro de usuário
