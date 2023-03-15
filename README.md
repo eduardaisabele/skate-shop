@@ -23,6 +23,6 @@
 
 ### Acessar Skate Shop:
 ![screenshot-tela-inicio](https://user-images.githubusercontent.com/92763302/213945526-991ccf7b-ee55-4012-a765-be107e02a80a.png)
-<a href="https://eduardaisabele.github.io/skate-shop/">Por aqui você consegue dar uma olhada no site ;)</a>
+<a href="https://eduardaisabele.github.io/skate-shop/" target="_blank">Por aqui você consegue dar uma olhada no site ;)</a>
 
 Feito com ❤️ por Eduarda Isabelle👋🏽 Entre em contato!
